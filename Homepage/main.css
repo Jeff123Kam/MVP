@@ -96,7 +96,6 @@ body{
     font-size: 200%;
     color: #fff;
     display: none;
-
 }
 
 /*sticky*/
@@ -144,7 +143,6 @@ body{
   background: #ffffff;
   position: fixed;
   top:0;
-
 }
 
 .second-ul{
@@ -171,17 +169,13 @@ body{
 .toggle{
   width: 100%;
   padding: 10px 20px;
-  background: #001f44;
+  background: #211545;
   text-align: right;
   box-sizing: border-box;
   color: #fff;
   font-size: 30px;
   display: none;
-
-
 }
-
-
 
 .searchbar{
     float: right;
@@ -418,7 +412,6 @@ footer {
   }
 }
 
-
 @media only screen and (min-width: 320px) {
     .card-wrapper {
         width: 100%;
@@ -456,7 +449,6 @@ footer {
 
     .main-nav li {
         display: block;
-
     }
 
     .main-nav li a:link,
@@ -464,9 +456,4 @@ footer {
         display: block;
         border: 0;
     }
-}
-
-iframe{
-  width: 70%;
-  height: 28rem;
 }
