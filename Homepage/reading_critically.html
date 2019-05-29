@@ -4,39 +4,33 @@
   <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Reading Critically</title>
   <link rel="stylesheet" href="sub.css" type="text/css">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
 </head>
 
 <body>
 <header>
-  <div class="widthsize">
-    <img src="title.png" alt="CDU logo" class="logo">
-    <label>
-      <input type="text" placeholder="Search ..." class="searchbar">
-    </label>
-  </div>
-</header>
-
-<section>
-  <div class="widthsize">
-    <nav>
-      <ul class="main-nav js--main-nav">
-        <li>
-          <a href="https://www.cdu.edu.au/">CDU Home</a>
-        </li>
-        <li>
-          <a href="https://www.cdu.edu.au/library/">Library</a>
-        </li>
-        <li>
-          <a href="https://www.cdu.edu.au/current-students/my-cdu">Current Students</a>
-        </li>
-        <li>
-          <a href="https://online.cdu.edu.au/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_3_1">Learnline Login</a>
-        </li>
+  <nav class="second-nav">
+    <div  class="toggle">
+      <a class="fas fa-bars menu" aria-hidden="true"></a>
+    </div>
+      <ul class="second-ul">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">Introduction</a></li>
+        <li><a href="#">Definition</a></li>
+        <li><a href="academic_writing.html">Academic Writing</a></li>
+        <li><a href="subpage1.html"> involvement</a></li>
+        <li><a href="reading_critically.html">Reading Critically</a></li>
+        <li><a href="Tutorial and seminar.html"> presentation</a></li>
       </ul>
-      <!--<a class="mobile-nav-icon"><img src="smallnav.png"/></a> -->
     </nav>
-    <a href="#" class="mobile-nav-icon js--nav-icon"><img src="smallnav.png" alt="smallnav"/></a>
   </div>
+  <br><br>
+</header>
+<div class="widthsize">
+  <img src="title.png" alt="CDU logo" class="logo">
+</div>
+<section>
 
 </section>
 <section class="section-style js--section-style">
@@ -205,5 +199,13 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="jquery.waypoints.min.js"></script>
 <script src="script.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script type="text/javascript">
+   $(document).ready(function(){
+     $('.menu').click(function(){
+       $('ul').toggleClass('active');
+     })
+   })
+  </script>
 </body>
 </html>
