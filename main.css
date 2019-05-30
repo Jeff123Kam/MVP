@@ -5,14 +5,14 @@
     font-family: "Times New Roman", Times, serif;
 }
 
-.html {
+.html{
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
 }
 
 body{
-  background-color:#ede5ce;
+    background-color:#ede5ce;
 }
 
 .widthsize{
@@ -21,37 +21,37 @@ body{
 }
 
 .sidebar {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #211545;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #211545;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
 }
 
 .sidebar a {
-  padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 21px;
-  color: #fff;
-  display: block;
-  transition: 0.3s;
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 21px;
+    color: #fff;
+    display: block;
+    transition: 0.3s;
 }
 
 .sidebar a:hover {
-  color: #f1f1f1;
+    color: #f1f1f1;
 }
 
 .sidebar .closebtn {
-  position: absolute;
-  top: 0;
-  right: 25px;
-  font-size: 36px;
-  margin-left: 50px;
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
 }
 
 .openbtn {
@@ -74,7 +74,7 @@ body{
 }
 
 .logo{
-    height: 100px;
+    height: 150px;
     width: auto;
     margin-top: 20px;
 }
@@ -139,42 +139,45 @@ body{
 }
 
 .second-nav{
-  width:100%;
-  background: #00316b;
-  position: fixed;
-  top:0;
+    width:100%;
+    background: #211545;
+    text-align: center;
+    position: fixed;
+    top:0;
 }
 
 .second-ul{
-  width:80%;
-  margin: 0 auto;
-  padding: 0;
+    width:100%;
+    margin: 0 auto;
+    padding: 0;
+    font-size:18px;
 }
 
 .second-ul li{
-  list-style: none;
-  display: inline-block;
-  padding: 20px;
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
 }
 
 .second-ul li:hover{
-  background: #e91e63;
+    background: #e91e63;
 }
 
 .second-ul li a{
-  color:#fff;
-  text-decoration: none;
+    color:#fff;
+    text-decoration: none;
+    font-weight:500;
 }
 
 .toggle{
-  width: 100%;
-  padding: 10px 20px;
-  background: #001f44;
-  text-align: right;
-  box-sizing: border-box;
-  color: #fff;
-  font-size: 30px;
-  display: none;
+    width: 100%;
+    padding: 10px 20px;
+    background: #211545;
+    text-align: right;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 30px;
+    display: none;
 }
 
 .searchbar{
@@ -198,7 +201,7 @@ body{
 }
 
 h2{
-    font-weight: 300;
+    font-weight: 400;
     font-family:'Microsoft YaHei',sans-serif;
     text-transform: uppercase;
     font-size: 50px;
@@ -206,6 +209,7 @@ h2{
     text-align: center;
     margin-bottom: 30px;
     letter-spacing: 1px;
+
 }
 
 p{
@@ -331,20 +335,20 @@ p{
 }
 
 .button{
-  background-color: white;
-  color: black;
-  border: 2px solid #008CBA;
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
 }
 
 .button:hover{
-  background-color: #008CBA;
-  color: white;
+    background-color: #008CBA;
+    color: white;
 }
 
 .button-style{
-  padding-bottom: 40px;
-  padding-top: 7px;
-  margin-bottom: 0;
+    padding-bottom: 40px;
+    padding-top: 7px;
+    margin-bottom: 0;
 }
 
 .card h3{
@@ -386,8 +390,8 @@ footer {
 }
 
 .image-logo{
-  width: 300px;
-  height: 300px;
+    width: 300px;
+    height: 300px;
 }
 /*Small phones: from 0 to 480px */
 @media (max-width:768px){
