@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b587a4aa-ceb0-40ef-b04c-db728762f0b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/git.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academic_writing.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic_writing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/involvement.html" beforeDir="false" afterPath="$PROJECT_DIR$/involvement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reading_critically.html" beforeDir="false" afterPath="$PROJECT_DIR$/reading_critically.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sub.css" beforeDir="false" afterPath="$PROJECT_DIR$/sub.css" afterDir="false" />
     </list>
@@ -26,11 +24,11 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/academic_writing.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="703">
+                  <state relative-caret-position="874">
                     <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
                   </state>
                 </provider>
@@ -39,8 +37,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/sub.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="209">
-                    <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+                  <state relative-caret-position="133">
+                    <caret line="196" column="16" selection-start-line="196" selection-start-column="16" selection-end-line="196" selection-end-column="16" />
                   </state>
                 </provider>
               </entry>
@@ -49,7 +47,7 @@
               <entry file="file://$PROJECT_DIR$/involvement.html">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="1102">
-                    <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+                    <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
                   </state>
                 </provider>
               </entry>
@@ -69,11 +67,11 @@
     </window>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2622">
+            <state relative-caret-position="2964">
               <caret line="156" column="58" selection-start-line="156" selection-start-column="58" selection-end-line="156" selection-end-column="58" />
             </state>
           </provider>
@@ -82,8 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="203" column="2" lean-forward="true" selection-start-line="203" selection-start-column="2" selection-end-line="210" selection-end-column="24" />
+            <state relative-caret-position="494">
+              <caret line="206" column="16" selection-start-line="206" selection-start-column="16" selection-end-line="206" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -91,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reading_critically.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="559">
-              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+            <state relative-caret-position="399">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -105,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/subpage1.html" />
         <option value="$PROJECT_DIR$/tutorial_and_seminar.html" />
         <option value="$PROJECT_DIR$/involvement.html" />
@@ -113,11 +110,13 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/reading_critically.html" />
         <option value="$PROJECT_DIR$/sub.css" />
+        <option value="$PROJECT_DIR$/main.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="912" />
+    <option name="y" value="19" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -170,23 +169,20 @@
       <option name="presentableId" value="Default" />
       <updated>1559184205636</updated>
       <workItem from="1559184206793" duration="4027000" />
+      <workItem from="1559189451091" duration="66000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4027000" />
+    <option name="totallyTimeSpent" value="4093000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="912" y="19" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -194,6 +190,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -210,6 +210,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2964">
+          <caret line="156" column="58" selection-start-line="156" selection-start-column="58" selection-end-line="156" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/academic_writing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/involvement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tutorial_and_seminar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2261">
@@ -217,45 +238,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/involvement.html">
+    <entry file="file://$PROJECT_DIR$/sub.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/academic_writing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="196" column="16" selection-start-line="196" selection-start-column="16" selection-end-line="196" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reading_critically.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="559">
-          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2622">
-          <caret line="156" column="58" selection-start-line="156" selection-start-column="58" selection-end-line="156" selection-end-column="58" />
+        <state relative-caret-position="399">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="203" column="2" lean-forward="true" selection-start-line="203" selection-start-column="2" selection-end-line="210" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sub.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="200" column="24" selection-start-line="200" selection-start-column="24" selection-end-line="200" selection-end-column="24" />
+        <state relative-caret-position="494">
+          <caret line="206" column="16" selection-start-line="206" selection-start-column="16" selection-end-line="206" selection-end-column="16" />
         </state>
       </provider>
     </entry>
