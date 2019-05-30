@@ -432,3 +432,7 @@ footer {
 }
 
 /* Small phones to small tablets: from 481px to 767px */
+iframe{
+    width:50%;
+    height:28rem;
+}
